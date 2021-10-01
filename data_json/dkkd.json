@@ -1,0 +1,23 @@
+﻿{
+  "name_VN": "tên công ty",
+  "name_other": "tên công ty nước ngoài",
+  "name_code": "tên viết tắt",
+  "addr": "địa chỉ trụ sở chính",
+  "phone_number": "sdt liên hệ",
+  "email": "",
+  "website": "",
+  "equity": "vốn điều lệ",
+  "incharge": "người đại diện công ty",
+  "company_code": "mã số doanh nghiệp",
+  "dof": "đăng ký lần đầu thời điểm nào",
+  "number_change": "Số lần thay đổi",
+  "change_datetime": "ngày tháng thay đổi",
+  "sex": "gioi tinh",
+  "title": "chức danh",
+  "dob": "sinh ngày",
+  "region": "quốc tịch",
+  "id_def": "loại giấy tờ chứng thực cá nhân",
+  "doi": "ngày cấp giấy tờ chứng thực",
+  "incharge_addr": "nơi đăng ký hộ khẩu thường trú",
+  "incharge_addr_now": "chỗ ở hiện tại"
+}

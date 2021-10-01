@@ -1,0 +1,13 @@
+﻿{
+  "name": "Ho va ten",
+  "id": "So ho chieu",
+  "dob": "ngay thang nam sinh",
+  "sex": "gioi tinh",
+  "nationality": "quoc tich",
+  "pob": "noi sinh",
+  "doe": "ngay het han cmt/cccd",
+  "dop": "ngay cap ho chieu",
+  "poi": "noi cap ho chieu",
+  "type": "loai ho chieu",
+  "code": "ma so"
+}

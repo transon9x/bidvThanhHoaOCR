@@ -1,0 +1,14 @@
+﻿{
+  "CIF": "Số CIF",
+  "name": "họ và tên",
+  "dob": "Ngày sinh",
+  "id_def": "số chứng minh thư",
+  "datetime_id": "ngày cấp",
+  "addr_id": "địa chỉ cấp",
+  "seri_number": "Số seri của sổ",
+  "product_number": "tên sản phẩm tích kiệm",
+  "TKFD": "Số TFKD",
+  "period": "kỳ hạn sổ",
+  "date_ex": " ngày đến hạn",
+  "price": "mệnh giá"
+}
